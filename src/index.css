@@ -152,6 +152,29 @@ code {
   transform: scale(1.1);
 }
 
+.my-img-link3{
+  display: block;
+  width: 100%;
+  max-width: 250px;
+  height: 800px;
+}
+
+.my-img-link3:hover {
+  transform: scale(1.02);
+}
+
+.my-img-link4{
+  display: block;
+  width: 100%;
+  max-width: 250px;
+  height: 500px;
+}
+
+.my-img-link4:hover {
+  height: 700px;
+  min-width: 300px;
+}
+
 
 
 /* My work experience section */

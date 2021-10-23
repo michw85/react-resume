@@ -54,7 +54,7 @@ const siteLanding = [
     secondSite: "https://github.com/michw85/landing-page",
     content: "HTML5, CSS3, PHP, JavaScript",
     img: plumber,
-    className: "my-img-link",
+    className: "my-img-link3",
   },
   {
     id: 2,
@@ -62,7 +62,7 @@ const siteLanding = [
     secondSite: "https://github.com/michw85/website",
     content: "HTML5, CSS3, JavaScript",
     img: advocate,
-    className: "my-img-link",
+    className: "my-img-link4",
   },
 
   {
@@ -71,7 +71,7 @@ const siteLanding = [
     secondSite: "https://github.com/michw85/website_layout",
     content: "HTML5, CSS3, JavaScript",
     img: eclipse,
-    className: "my-img-link",
+    className: "my-img-link3",
   },
 ];
 const reactApp = [
