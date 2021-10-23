@@ -1,4 +1,5 @@
 import React from "react";
+import parus from "./img/parus.png"
 
 const styles = {
          span: { className: "my-work-experience-company" }
@@ -49,7 +50,10 @@ export const Expirience = () => {
             <li class="my-work-experience-list-item">
               HTML5, CSS, JS / PHP, jQuery
             </li>
-            <li class="my-work-experience-list-item">http://parus.inf.ua/</li>
+            <li class="my-work-experience-list-item" >
+              <a href="http://parus.inf.ua/">http://parus.inf.ua/</a>
+              {/* <img src={parus} style={{"maxWidth":"300px", "height":"300px", "display":"flex"}}/> */}
+            </li>
           </ul>
         </div>
         {/* <!-- Company 1 --> */}
