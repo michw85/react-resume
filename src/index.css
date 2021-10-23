@@ -133,8 +133,8 @@ code {
 .my-img-link{
   display: block;
   width: 100%;
-  max-width: 250px;
-  height: 400px;
+  max-width: 280px;
+  height: 600px;
 }
 
 .my-img-link:hover {
