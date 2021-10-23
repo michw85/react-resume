@@ -1,8 +1,7 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F5F7FA;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -10,4 +9,226 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.main-container{
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  margin: 40px auto;
+}
+
+/* Main content section */
+.main-content-section{
+  padding: 50px 40px;
+}
+
+.main-content-title{
+  font-style: normal;
+  font-weight: bold; 
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.main-content-smalltitle {
+  font-size: 22px;
+  color: #FB6D3A;
+}
+
+.main-content-period{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #A8A8A8;
+  margin-bottom: 10px;
+}
+
+.main-content-divider{
+  color: #000;
+}
+
+/* About me section */
+.about-me-section{
+  margin-bottom: 40px;
+}
+
+.about-me-profession{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.about-me-name{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin-bottom: 25px;
+}
+
+.about-me-description{
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/* My project section */
+.my-project-section{
+  margin-bottom: 50px;
+}
+
+.my-project-list{
+  padding: 0 0 0 17px;
+}
+
+.my-project-item{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.my-project-content{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+
+.my-project-link{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+}
+
+.my-project-brecket{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.my-img-link{
+  display: block;
+  width: 100%;
+  max-width: 250px;
+  height: 400px;
+}
+
+.my-img-link2{
+  display: block;
+  width: 100%;
+  max-width: 450px;
+  height: 300px;
+}
+
+.my-img-link:hover {
+  /* max-width: 300px;
+  height: 600px; */
+  transform: scale(1.05);
+}
+
+/* My work experience section */
+.my-work-experience-section{
+  margin-bottom: 45px;
+}
+
+.my-work-experience-company-block{
+  margin-bottom: 15px;
+}
+
+.my-work-experience-position{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.my-work-experience-company{
+  color: #FB6D3A;
+}
+
+.my-work-experience-lists{
+  padding-left: 18px;
+}
+
+.my-work-experience-list-item{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/* My education section */
+.my-education-university{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FB6D3A;
+  margin-bottom: 10px;
+}
+
+.my-education-speciality{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+/* My contacts section */
+.my-contacts-section {
+  margin-bottom: 45px;
+}
+
+.my-contacts-type {
+  color: #FB6D3A;
+  margin: 20px 0 5px 0;
+}
+
+.my-contacts-content {
+  margin-bottom: 30px;
+}
+
+.my-contacts-description {
+  margin-bottom: 10px;
+}
+
+.fromBasicEmail {
+  margin-top: 10px;
+}
+
+.fromBasicPassword {
+  margin-top: 10px;
+}
+
+.fromBasicChackbox {
+  margin-top: 10px;
 }
