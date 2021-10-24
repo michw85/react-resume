@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/michw85/react-resume/static/css/main.284ac5ad.chunk.css",
+    "main.js": "/michw85/react-resume/static/js/main.01d210e5.chunk.js",
+    "main.js.map": "/michw85/react-resume/static/js/main.01d210e5.chunk.js.map",
+    "runtime-main.js": "/michw85/react-resume/static/js/runtime-main.22e9dc86.js",
+    "runtime-main.js.map": "/michw85/react-resume/static/js/runtime-main.22e9dc86.js.map",
+    "static/css/2.c1256375.chunk.css": "/michw85/react-resume/static/css/2.c1256375.chunk.css",
+    "static/js/2.450d9100.chunk.js": "/michw85/react-resume/static/js/2.450d9100.chunk.js",
+    "static/js/2.450d9100.chunk.js.map": "/michw85/react-resume/static/js/2.450d9100.chunk.js.map",
+    "static/js/3.30cf87f5.chunk.js": "/michw85/react-resume/static/js/3.30cf87f5.chunk.js",
+    "static/js/3.30cf87f5.chunk.js.map": "/michw85/react-resume/static/js/3.30cf87f5.chunk.js.map",
+    "index.html": "/michw85/react-resume/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/michw85/react-resume/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.284ac5ad.chunk.css.map": "/michw85/react-resume/static/css/main.284ac5ad.chunk.css.map",
+    "static/js/2.450d9100.chunk.js.LICENSE.txt": "/michw85/react-resume/static/js/2.450d9100.chunk.js.LICENSE.txt",
+    "static/media/Landing-Plumber.0b030864.jpg": "/michw85/react-resume/static/media/Landing-Plumber.0b030864.jpg",
+    "static/media/Landing.48f585cf.png": "/michw85/react-resume/static/media/Landing.48f585cf.png",
+    "static/media/Mystik.826d7463.png": "/michw85/react-resume/static/media/Mystik.826d7463.png",
+    "static/media/Nelson.0ec6fbfd.jpg": "/michw85/react-resume/static/media/Nelson.0ec6fbfd.jpg",
+    "static/media/advocate.307b22b5.png": "/michw85/react-resume/static/media/advocate.307b22b5.png",
+    "static/media/parus.b5c5ab9c.png": "/michw85/react-resume/static/media/parus.b5c5ab9c.png",
+    "static/media/reactBooks.5e0df9f8.jpg": "/michw85/react-resume/static/media/reactBooks.5e0df9f8.jpg",
+    "static/media/reactChat.91f5724a.jpg": "/michw85/react-resume/static/media/reactChat.91f5724a.jpg",
+    "static/media/reactTodo.9c911417.jpg": "/michw85/react-resume/static/media/reactTodo.9c911417.jpg",
+    "static/media/slide12.8b652f7c.jpg": "/michw85/react-resume/static/media/slide12.8b652f7c.jpg",
+    "static/media/slide13.d15a279d.jpg": "/michw85/react-resume/static/media/slide13.d15a279d.jpg",
+    "static/media/slider3.be0d0e83.jpg": "/michw85/react-resume/static/media/slider3.be0d0e83.jpg",
+    "static/media/slider5.0179c8e9.jpg": "/michw85/react-resume/static/media/slider5.0179c8e9.jpg",
+    "static/media/slider6.a8d2922a.jpg": "/michw85/react-resume/static/media/slider6.a8d2922a.jpg",
+    "static/media/slider7.369f9a34.jpg": "/michw85/react-resume/static/media/slider7.369f9a34.jpg",
+    "static/media/slider8.9de5adcf.jpg": "/michw85/react-resume/static/media/slider8.9de5adcf.jpg",
+    "static/media/techi.c4454ff8.jpg": "/michw85/react-resume/static/media/techi.c4454ff8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22e9dc86.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.450d9100.chunk.js",
+    "static/css/main.284ac5ad.chunk.css",
+    "static/js/main.01d210e5.chunk.js"
+  ]
+}
