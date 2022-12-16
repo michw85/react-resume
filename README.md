@@ -2,7 +2,7 @@
 
 ---
 
-![alt text](src/images/Screenshot_2.jpg "Screen of App")
+![alt text](src/img/Screenshot_2.jpg "Screen of App")
 
 ---
 
